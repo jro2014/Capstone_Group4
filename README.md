@@ -7,3 +7,4 @@ Folders:
   Notebooks: This folder will hold all Excel files and .py files used in this project.
 
 Miscellaneous files include our exploratory questions and our Executive Summary.
+Project Management Board: https://trello.com/b/GdD2JWiO/capstone-project-management-plan
